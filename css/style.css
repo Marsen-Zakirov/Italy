@@ -1,0 +1,229 @@
+* {
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(233, 233, 233);
+}
+header {
+    background-image: url(../img/header-background.jpg);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: 100% 800px;
+}
+.container {
+    width: 1100px;
+    margin: 0 auto;
+}
+.header-italia {
+    font-size: 120px;
+    color: white;
+    padding-top: 280px;
+    padding-left: 150px; 
+}
+.population-title {
+    margin-left: 300px;
+    color: rgb(65, 65, 65);
+    font-size: 60px;
+}
+.population-main_abz-1 {
+    color: rgb(65, 65, 65);
+    font-size: 28px;
+}
+
+.population-main_abz-2 {
+    margin-top: 30px;
+    color: rgb(65, 65, 65);
+    font-size: 28px;
+}
+
+.population-info p {
+    height: 400px;
+    width: 200px;
+    border-color: 2px solid red;
+}
+.population-info {
+    margin-left: 300px;
+    font-size: 30px;
+    margin-top: 30px;
+}
+.population-info_population {
+    background-color: #BFBFBF;
+    width: 500px;  
+    border-radius: 3px; 
+    text-align: center;
+}
+.population-info_population:hover {
+    color: white;
+    background-color: rgb(110, 110, 110);
+}
+
+.population-info_population-quantity {
+    background-color: white ;
+    width: 500px; 
+    border-radius: 3px;
+    text-align: center;
+}
+.population-info_population-quantity:hover {
+    color: white;
+    background-color: rgb(110, 110, 110);
+}
+.population-info_rating {
+    background-color: #BFBFBF;
+    width: 500px;  
+    border-radius: 3px; 
+    text-align: center;
+}
+.population-info_rating:hover {
+    color: white;
+    background-color: rgb(110, 110, 110);
+}
+.population-info_rating-quantity {
+    background-color: white ;
+    width: 500px; 
+    border-radius: 3px;
+    text-align: center;
+}
+.population-info_rating-quantity:hover {
+    color: white;
+    background-color: rgb(110, 110, 110);
+}
+.population-info_square {
+    background-color: #BFBFBF;
+    width: 500px;  
+    border-radius: 3px; 
+    text-align: center; 
+}
+.population-info_square:hover {
+    color: white;
+    background-color: rgb(110, 110, 110);
+}
+small {
+    vertical-align: super;
+    font-size: smaller;
+}
+.population-info_square-quanity {
+    background-color: white ;
+    width: 500px; 
+    border-radius: 3px;
+    text-align: center;
+}
+.population-info_square-quanity:hover {
+    color: white;
+    background-color: rgb(110, 110, 110);
+}
+.population-info_density {
+    background-color: #BFBFBF;
+    width: 500px;  
+    border-radius: 3px; 
+    text-align: center; 
+}
+.population-info_density:hover {
+    color: white;
+    background-color: rgb(110, 110, 110);
+}
+.population-info_density-quantity {
+    background-color: white ;
+    width: 500px; 
+    border-radius: 3px;
+    text-align: center;
+}
+.population-info_density-quantity:hover {
+    color: white;
+    background-color: rgb(110, 110, 110);
+}
+.population-info_middle-age {
+    background-color: #BFBFBF;
+    width: 500px;  
+    border-radius: 3px; 
+    text-align: center; 
+}
+.population-info_middle-age:hover {
+    color: white;
+    background-color: rgb(110, 110, 110);
+}
+.population-info_middle-age-quantity {
+    background-color: white ;
+    width: 500px; 
+    border-radius: 3px;
+    text-align: center;
+}
+.population-info_middle-age-quantity:hover {
+    color: white;
+    background-color: rgb(110, 110, 110);
+}
+.population-info_life-expectancy {
+    background-color: #BFBFBF;
+    width: 500px;  
+    border-radius: 3px; 
+    text-align: center; 
+}
+.population-info_life-expectancy:hover {
+    color: white;
+    background-color: rgb(110, 110, 110);
+}
+.population-info_life-expectancy-quantity {
+    background-color: white ;
+    width: 500px; 
+    border-radius: 3px;
+    text-align: center;
+}
+.population-info_life-expectancy-quantity:hover {
+    color: white;
+    background-color: rgb(110, 110, 110);
+}
+footer {
+    height: 120px;
+    color:white;
+    font-size: 15px;
+    background-color: #423d3d;
+    margin-top: 20px;
+
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: lime;
+}
+.credentials {
+    padding-left: 20px;
+    padding-top: 15px;
+    font-size: 20px;
+    display: inline-block;
+}
+.contact {
+    margin-top: 15px;
+}
+.btn-vk {
+    display: inline-block;
+    margin-left: 20px;
+}
+.btn-instagram {
+    display: inline-block;
+    margin-left: 8px;
+}
+.btn-discord {
+    display: inline-block;
+    margin-left: 8px;
+}
+.btn-youtube {
+    display: inline-block;
+    margin-left: 8px;
+}
+.btn-steam {
+    display: inline-block;
+    margin-left: 8px;
+}
+.NumberPhone {
+    float: right;
+    display: inline-block;
+    margin-top: -38px;
+    margin-right: 15px;
+    font-size: 25px;
+}
+.number {
+    margin-top: 8px;
+}
